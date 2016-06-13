@@ -4,3 +4,9 @@ public class HelloWorld
 		System.out.println("Hello World!");
 	}
 }
+class person
+{
+	private String name;
+	private int age;
+	private boolean sex;
+}
