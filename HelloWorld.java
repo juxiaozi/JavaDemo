@@ -9,4 +9,7 @@ class person
 	private String name;
 	private int age;
 	private boolean sex;
+	public void setName(String name){
+		this.name=name;
+	}
 }
